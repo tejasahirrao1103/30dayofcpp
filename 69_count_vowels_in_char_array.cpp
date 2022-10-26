@@ -1,5 +1,5 @@
 /*
-count length of character array {c type string }
+count vowels in character array {c type string }
 */ 
 #include<iostream>
 using namespace std;
